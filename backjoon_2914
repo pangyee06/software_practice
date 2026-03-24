@@ -1,6 +1,0 @@
-song, average = input().split()
-song = int(song)
-average = int(average)
-exsong = song -1 
-melody = average*song - exsong
-print(melody)
